@@ -45,5 +45,6 @@
 
 <strong>Command to run this project:</strong> 
 <br />
-1. Open ssms (sql server management studio) in windows.
-2. Execute both DDL (Data Definition Language) and DML (Data Manipulation Language) commands by pressing F5 in your keyboard.
+1. Clone this repository in your machine by executing this command: git clone https://github.com/imtiaz-csr/course-management.git
+2. Open ssms (sql server management studio) in windows.
+3. Execute both DDL (Data Definition Language) and DML (Data Manipulation Language) commands by pressing F5 in your keyboard.
