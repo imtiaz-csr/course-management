@@ -1,5 +1,21 @@
 # SQL Project on Course Management.
 <hr />
+
+<strong>DDL statement execution:</strong>
+<br />
+![DDL-statement-execution](https://user-images.githubusercontent.com/58094678/140607020-ccb84d9f-d7f0-4789-829a-77f26a24dac5.jpg)
+<br />
+
+<strong>DML statement execution:</strong>
+<br />
+![DML-statement-execution](https://user-images.githubusercontent.com/58094678/140607024-34b29739-1989-4e08-8f85-642a5d7956ff.jpg)
+<br />
+
+<strong>batch-table:</strong>
+<br />
+![batch-table](https://user-images.githubusercontent.com/58094678/140607171-77896522-9ec3-47b1-8a69-da0121661439.jpg)
+<br />
+
 <br />
 <strong>Project Overview:</strong>
 <br />
